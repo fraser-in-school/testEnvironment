@@ -1,0 +1,23 @@
+{
+  "name": "sio",
+  "version": "1.0.0",
+  "description": "socket.io-customer",
+  "main": "ClientClass.js",
+  "dependencies": {
+    "engine.io": "^1.8.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fraser-in-school/testEnvironment.git"
+  },
+  "author": "zhanghao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fraser-in-school/testEnvironment/issues"
+  },
+  "homepage": "https://github.com/fraser-in-school/testEnvironment#readme"
+}
