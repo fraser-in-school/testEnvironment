@@ -4,7 +4,7 @@
   "description": "socket.io-customer",
   "main": "ClientClass.js",
   "dependencies": {
-    "engine.io": "^1.8.4"
+    "engine.io": "^3.6.0"
   },
   "devDependencies": {},
   "scripts": {
